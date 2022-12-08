@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:public/login/auth.js","auth.js");NDSummary.OnSummaryLoaded("File:public/login/auth.js",[["JavaScript","JavaScript"]],[["Functions","Function"],["Groups","Group"]],[[88,0,1,"Functions","Functions"],[89,0,0,"getRoles","getRoles"],[90,0,0,"allowedToAccessPage","allowedToAccessPage"]]);

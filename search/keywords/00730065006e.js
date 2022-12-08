@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sen",["Function"],[["sendToLogin",,[[,,,,0,"File:pages/login/index.js:sendToLogin"]]]]);

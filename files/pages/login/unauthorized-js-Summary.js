@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:pages/login/unauthorized.js","unauthorized.js");NDSummary.OnSummaryLoaded("File:pages/login/unauthorized.js",[["JavaScript","JavaScript"]],[["Functions","Function"],["Groups","Group"]],[[26,0,1,"Functions","Functions"],[27,0,0,"Unauthorized","Unauthorized"]]);

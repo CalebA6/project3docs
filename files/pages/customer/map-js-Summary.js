@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:pages/customer/map.js","map.js");NDSummary.OnSummaryLoaded("File:pages/customer/map.js",[["JavaScript","JavaScript"]],[["Functions","Function"],["Groups","Group"]],[[24,0,1,"Functions","Functions"],[25,0,0,"Map","Map"]]);

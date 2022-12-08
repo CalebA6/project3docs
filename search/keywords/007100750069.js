@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("qui",["Function"],[["quickStart",,[[,,,,0,"File2:translate.js:quickStart"]]]]);

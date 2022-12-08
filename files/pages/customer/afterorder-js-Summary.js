@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:pages/customer/afterorder.js","afterorder.js");NDSummary.OnSummaryLoaded("File:pages/customer/afterorder.js",[["JavaScript","JavaScript"]],[["Functions","Function"],["Groups","Group"]],[[1,0,1,"Functions","Functions"],[2,0,0,"AfterOrder","AfterOrder"],[3,0,0,"getServerSideProps","getServerSideProps"]]);

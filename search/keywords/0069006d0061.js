@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ima",["Function"],[["imageURL",,[[,"imageUrl",,,0,"File:pages/customer/cart.js:imageUrl"],["Category","imageUrl",,,0,"File:pages/server/selectItem.js:Category.imageUrl","JavaScriptClass:Category:imageUrl"],[,,,,0,"File:pages/customer/selectItem.js:imageURL"]]]]);

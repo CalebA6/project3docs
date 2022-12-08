@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("man",["Function"],[["ManagerView",,[[,,,,0,"File:pages/manager/index.js:ManagerView"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ren",["Function"],[["render",,[["Category",,,,0,"File:pages/server/selectItem.js:Category.render","JavaScriptClass:Category:render"]]]]);

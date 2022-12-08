@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("set",["Function"],[["setPrice",,[[,,,,0,"File2:queries.js:setPrice"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cat",["Class","Function"],[["Category",,[[,,,,0,"File:pages/server/selectItem.js:Category","JavaScriptClass:Category"]]],["categoryButtonId",,[[,,,,1,"File:pages/customer/index.js:categoryButtonId"]]]]);

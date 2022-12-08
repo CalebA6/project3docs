@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:components/TranslateText.js","TranslateText.js");NDSummary.OnSummaryLoaded("File:components/TranslateText.js",[["JavaScript","JavaScript"]],[["Functions","Function"],["Groups","Group"]],[[98,0,1,"Functions","Functions"],[99,0,0,"TranslateText","TranslateText"]]);

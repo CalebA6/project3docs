@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("aft",["Function"],[["AfterOrder",,[[,,,,0,"File:pages/customer/afterorder.js:AfterOrder"]]]]);

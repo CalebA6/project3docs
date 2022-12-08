@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cus",["Function"],[["CustomerView",,[[,,,,0,"File:pages/customer/index.js:CustomerView"]]]]);

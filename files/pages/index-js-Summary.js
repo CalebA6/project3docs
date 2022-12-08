@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:pages/index.js","index.js");NDSummary.OnSummaryLoaded("File:pages/index.js",[["JavaScript","JavaScript"]],[["Functions","Function"],["Groups","Group"]],[[94,0,1,"Functions","Functions"],[95,0,0,"Map","Map"]]);

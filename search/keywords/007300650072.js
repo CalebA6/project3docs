@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ser",["Function"],[["ServerView",,[[,,,,0,"File:pages/server/index.js:ServerView"]]]]);

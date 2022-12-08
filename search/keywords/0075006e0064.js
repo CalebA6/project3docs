@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("und",["Function"],[["underlineInventory",,[[,,,,0,"File:pages/manager/index.js:underlineInventory"]]],["underlineMenu",,[[,,,,0,"File:pages/manager/index.js:underlineMenu"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("log",["Function"],[["loginIfNecessary",,[[,,,,0,"File:public/login/login.js:loginIfNecessary"]]],["Logout",,[[,,,,0,"File:pages/login/logout.js:Logout"]]]]);

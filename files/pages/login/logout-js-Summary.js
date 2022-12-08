@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:pages/login/logout.js","logout.js");NDSummary.OnSummaryLoaded("File:pages/login/logout.js",[["JavaScript","JavaScript"]],[["Functions","Function"],["Groups","Group"]],[[34,0,1,"Functions","Functions"],[35,0,0,"Logout","Logout"]]);

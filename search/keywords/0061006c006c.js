@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("all",["Function"],[["allowedToAccessPage",,[[,,,,0,"File:public/login/auth.js:allowedToAccessPage"]]]]);

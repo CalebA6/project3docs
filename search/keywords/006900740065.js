@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ite",["Function"],[["Item",,[[,,,,0,"File:pages/customer/item.js:Item"]]]]);

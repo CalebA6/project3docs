@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("mya",["Function"],[["MyApp",,[[,,,,0,"File:pages/_app.js:MyApp"]]]]);

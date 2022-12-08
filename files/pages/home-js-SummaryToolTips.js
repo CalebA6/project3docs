@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:pages/home.js",{87:"<div class=\"NDToolTip TFunction LJavaScript\"><div id=\"NDPrototype87\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">export</span> default <span class=\"SHKeyword\">function</span> Home()</div></div><div class=\"TTSummary\">Generates home page.</div></div>"});

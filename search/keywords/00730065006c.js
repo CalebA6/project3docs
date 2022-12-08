@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sel",["Function"],[["SelectItem",,[[,,,,0,"File:pages/customer/selectItem.js:SelectItem"]]]]);
